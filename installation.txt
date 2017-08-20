@@ -1,0 +1,12 @@
+npm install angularfire2 firebase --save
+
+environment.ts add public key
+
+index.html file checkout.js
+
+typings.d.ts
+
+ng g module payments/payment
+create 
+ng g service payments/payment --module payments/payment
+ng g component payments/make-payment --module payments/payment
